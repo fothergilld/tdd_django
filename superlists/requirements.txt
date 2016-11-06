@@ -1,5 +1,6 @@
 decorator==4.0.10
 Django==1.8.15
+gunicorn==19.6.0
 ipython==5.1.0
 ipython-genutils==0.1.0
 pbr==1.10.0
